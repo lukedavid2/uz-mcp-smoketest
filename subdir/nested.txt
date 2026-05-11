@@ -1,0 +1,1 @@
+Subdirectory paths work too. Useful for the deploy folder which has rhymeforge/, homepage/, etc.
